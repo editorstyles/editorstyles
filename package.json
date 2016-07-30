@@ -1,6 +1,6 @@
 {
   "name": "editorstyles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scaffold styles and variables for markdown, WordPress entry content, etc.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,8 @@
     "markdown",
     "wordpress",
     "entry",
-    "content"
+    "content",
+    "entry-content"
   ],
   "author": "Kite",
   "license": "MIT",
