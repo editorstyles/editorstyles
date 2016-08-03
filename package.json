@@ -4,14 +4,7 @@
   "description": "Scaffold styles and variables for markdown, WordPress entry content, etc.",
   "main": "index.js",
   "scripts": {
-    "build": "gulp build --production",
-    "imagemin": "gulp imagemin",
-    "production": "gulp --production",
-    "sass": "gulp sass",
-    "server": "gulp server",
-    "server-production": "gulp server --production",
-    "start": "gulp",
-    "test": "gulp test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
