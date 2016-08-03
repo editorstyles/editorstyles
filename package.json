@@ -1,6 +1,6 @@
 {
   "name": "editorstyles",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Scaffold styles and variables for markdown, WordPress entry content, etc.",
   "main": "index.js",
   "scripts": {
