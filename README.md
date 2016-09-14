@@ -23,7 +23,7 @@ $ npm install --save editorstyles
 **Sass (example of GitHub):**
 
 ```scss
-@import 'node_modules/editorstyles/github';
+@import 'node_modules/editorstyles/sass/github';
 ```
 
 **Node-sass (example of GitHub):**
